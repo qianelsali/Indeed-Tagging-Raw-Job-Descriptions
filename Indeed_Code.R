@@ -89,5 +89,9 @@ accuracy <- sum(diag(conf.mat))
 # I add a new line
 a <- function (x){
   x <- x +1
-  return （x)
+  return (x)
 }
+
+# i add a second line
+a = 1
+b <- a(1,2,3,)
