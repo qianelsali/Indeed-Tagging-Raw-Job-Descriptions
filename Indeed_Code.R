@@ -85,3 +85,9 @@ tags.type <- c("art-time-job","full-time-job", "hourly-wage",
 conf.mat <- table ("predictation" = , "Actural" = )
 accuracy <- sum(diag(conf.mat))
 
+
+# I add a new line
+a <- function (x){
+  x <- x +1
+  return （x)
+}
