@@ -1,5 +1,5 @@
 # Indeed-Tagging-Raw-Job-Descriptions
-This is a code challeng from Hackerrank
+This is a coding game from Hackerrank
 
 Sponsered by Indeed Machine Learning CodeSprint
 
