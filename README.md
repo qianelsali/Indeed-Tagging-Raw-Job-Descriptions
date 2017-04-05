@@ -1,7 +1,7 @@
 # Indeed-Tagging-Raw-Job-Descriptions
 This is a coding game from Hackerrank
 
-Sponsered by Indeed Machine Learning CodeSprint
+Sponsored by Indeed Machine Learning CodeSprint
 
 
 The Task is Tagging Raw Job Descriptions
